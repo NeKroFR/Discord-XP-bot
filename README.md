@@ -1,2 +1,2 @@
 # Discord-XP-bot
-A discord bot with an xp and lvl system created in python
+A discord bot with an xp , a lvl ,and an ranking system created in python
